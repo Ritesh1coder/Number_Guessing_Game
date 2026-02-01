@@ -12,7 +12,7 @@ var answer = Math.floor(Math.random()*100) + 1;
 var no_of_guesses = 0;
 var guessed_nums = [];
 
-function player(){
+function play(){
     var user_guess = document.getElementById("guess").value;
     if(user_guess < 1 || user_guess > 100){
         alert("Please enter a number between 1 and 100.");
