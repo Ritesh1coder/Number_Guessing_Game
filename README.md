@@ -52,4 +52,5 @@ The game gives feedback if the guess is **too high** or **too low** until the co
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/Ritesh1coder/My-Number-Guessing-Game.git
+git clone https://github.com/Ritesh1coder/Number_Guessing_Game.git
+
