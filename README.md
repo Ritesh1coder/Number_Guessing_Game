@@ -19,7 +19,7 @@ The game gives feedback if the guess is **too high** or **too low** until the co
 
 ## 🌐 Live Demo
 
-👉 https://numberguessinggameritesh.netlify.app/
+👉 https://riteshnumberguessinggame.netlify.app/
 
 ---
 
